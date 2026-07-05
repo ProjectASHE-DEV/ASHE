@@ -1,4 +1,3 @@
-# Terms of Service for ASHE
 
 **Last Updated: July 2026**
 
