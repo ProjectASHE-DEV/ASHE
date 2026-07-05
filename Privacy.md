@@ -21,4 +21,4 @@ ASHE only processes data that is absolutely necessary for its functionality. Thi
 ### 3. Data Retention & Deletion
 * Temporary message data processed for scam detection is analyzed instantly and is not permanently saved.
 * Persistent logs are kept for as long as the Bot remains in the server or until manually cleared.
-* **Data Removal Requests:** Users or server administrators can request the complete deletion of their data at any time by contacting the developer at `[Your GitHub Username] via GitHub`.
+* **Data Removal Requests:** Users or server administrators can request the complete deletion of their data at any time by contacting the developer at `ProjectASHE-DEV via GitHub`.
