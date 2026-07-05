@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Terms of Service
 
 **Last Updated: July 2026**
