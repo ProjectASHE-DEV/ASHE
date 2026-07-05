@@ -1,4 +1,3 @@
-# Privacy Policy for ASHE
 
 **Last Updated: July 2026**
 
